@@ -1,3 +1,9 @@
+# Describe an algorithm that takes as input
+# a list of n integers and produces as 
+# output the largest difference obtained 
+# by subtracting an integer in the list 
+# from the one following it.
+
 def f(integers):
     max_diff = integers[0] - integers[1]
 

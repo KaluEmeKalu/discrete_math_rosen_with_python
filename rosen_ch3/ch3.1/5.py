@@ -1,3 +1,9 @@
+# Describe an algorithm that takes as input a 
+# list of n integers in nondecreasing order 
+# and produces the list of all values that occur 
+# more than once. (Recall that a list of integers is 
+# nondecreasing if each integer in the list is at least as 
+# large as the previous integer in the list.)
 def f(integers):
     duplicates = []
     n = len(sample_list)

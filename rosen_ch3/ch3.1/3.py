@@ -1,3 +1,7 @@
+# Devise an algorithm that finds 
+# the sum of all the integers in a list.
+
+
 def _sum(integers):
 	the_sum = 0 
 	for x in integers:
